@@ -1,4 +1,4 @@
-<img alt="banner" title="Profile Banner" src="./media/banner.png" align="center"/>
+<img alt="banner" title="Profile Banner" src="./media/banner-dark.png" align="center"/>
 <br>
 
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Lance Malaga</h2>
