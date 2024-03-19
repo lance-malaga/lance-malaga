@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/lancemalaga/">
   <img alt="instagram" title="Instagram Profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-  <a href="">
+  <a href="https://lance-malaga.vercel.app/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   
   <br><br>
