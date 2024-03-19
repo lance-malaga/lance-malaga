@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Guilherme Trevisan</h2>
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Lance Malagan</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/lance-matsuo-malaga/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
