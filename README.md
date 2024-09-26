@@ -3,10 +3,10 @@
 
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"/> Hello! I'm Lance Malaga</h2>
 <p align="center">
-  <a href="https://lance-malaga.vercel.app/">
+  <a href="https://lance-malaga.ca/">
   <img alt="portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   
-  <a href="https://www.linkedin.com/in/lance-matsuo-malaga/">
+  <a href="https://www.linkedin.com/in/lance-malaga/">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="lance.matsuo@gmail.com">
